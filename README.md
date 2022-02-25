@@ -1,4 +1,4 @@
-# DSA-Basic-
+#DSA-Basic_ARRAY
 These are data structure and algorithm Functions. (ARRAY BASICS)
 This repository contains basic DSA questions on arrays.
 The code are in cpp but the java implementation is also similar.
